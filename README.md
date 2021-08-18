@@ -1,37 +1,31 @@
-<h1 align="center">Hi 👋, I'm Coder Boy Rahmat</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+### Hi there 👋, welcome to Coder Boy Rahmat
+#### MERN Stack Web Developer
+![MERN Stack Web Developer](https://github.com/Tamhat/Tamhat/blob/main/Screenshot_63.png?raw=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" /> </p>
+Coder Boy Rahmat is a MERN Stack Web Developer.
+I am expert in developing websites and manage them
 
-- 🔭 I’m currently working on [javascript Projects](https://tamhat.github.io/Rahmatullah-portfolio/)
+Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing
 
-- 🌱 I’m currently learning **Javascript and Bootstrap5**
+- 🔭 I’m currently working on javascript Projects 
+- 🌱 I’m currently learning ADVANCE JAVASCRIPT  
+- 👯 I’m looking to collaborate on MY PORTFOLIO:https://tamhat.github.io/Rahmatullah-portfolio/ 
+- 💬 Ask me about HTML /CSS/JAVASCRIPT 
+- 📫 How to reach me:  rahmatur02982@gmail.com 
 
-- 👯 I’m looking to collaborate on [HOSPITAL PROJECTS](https://tamhat.github.io/Homework-01/)
 
-- 👨‍💻 All of my projects are available at [https://tamhat.github.io/Rahmatullah-portfolio/](https://tamhat.github.io/Rahmatullah-portfolio/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tamhat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahmat-ullah-7605221b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rahmatullah.badsha.33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/badsharahmatullah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/tamhat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tamhat.github.io/Rahmatullah-portfolio/)  
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **rahmatur02982@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📄 Know about my experiences [https://tamhat.github.io/Rahmatullah-portfolio/](https://tamhat.github.io/Rahmatullah-portfolio/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/tamhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tamhat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahmat-ullah-7605221b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmat-ullah-7605221b7/" height="30" width="40" /></a>
-<a href="https://fb.com/rahmatullah.badsha.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahmatullah.badsha.33" height="30" width="40" /></a>
-<a href="https://instagram.com/badsharahmatullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badsharahmatullah" height="30" width="40" /></a>
-<a href="https://dribbble.com/ulldvdah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ulldvdah" height="30" width="40" /></a>
-<a href="https://www.behance.net/rahmatbadsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rahmatbadsha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucxqj44pmwod8us6yidvubmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxqj44pmwod8us6yidvubmq" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rahmatur02982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rahmatur02982" height="30" width="40" /></a>
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![GitHub metrics](https://metrics.lecoq.io/Tamhat)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamhat&show_icons=true&locale=en&layout=compact" alt="tamhat" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamhat)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
+![Profile views](https://gpvc.arturio.dev/Tamhat)  
