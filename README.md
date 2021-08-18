@@ -22,5 +22,7 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Tamhat)  
+![GitHub metrics](https://metrics.lecoq.io/Tamhat)  <br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  
 
