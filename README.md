@@ -1,6 +1,6 @@
 
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_69.png"><br>
-<h1 align="center">Hi 👋, I'm CODER BOY RAHMAT</h1> <h3 align="center">MERN Stack Web Developer and Web Designer </h3><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><br>
+<h1 align="center">Hi 👋, I'm CODER BOY RAHMAT</h1><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <h3 align="center">MERN Stack Web Developer and Web Designer </h3><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" /></p>
 <p>Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. Knock me : https://www.facebook.com/rahmatullah.badsha.33/</p><br>
 Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<br>
