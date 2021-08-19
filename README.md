@@ -44,4 +44,4 @@ here is the live link :https://tamhat.github.io/Homework-01/ <br>
 see the code on here:https://github.com/Tamhat/Homework-01<BR>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_70.png"><br>
 <h1 align="center">DISCRIPTION</h1><br>
-Using only html and css
+<img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_71.png"><br>
