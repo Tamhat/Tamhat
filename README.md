@@ -35,10 +35,5 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true&count_private=true)  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![GitHub metrics](https://metrics.lecoq.io/Tamhat)  <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tamhat)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  <br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  
