@@ -36,7 +36,10 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub metrics](https://metrics.lecoq.io/Tamhat)  <br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  <br>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  <br><br>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
 <p align="center">__________________________________________--------------------___________________________________________</p><br>
 <h1 align="center">THIS IS AN PROJECT FOR HOSPITAL</h1 <br>
