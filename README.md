@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm CODER BOY RAHMAT</h1> <h3 align="center">MERN Stack Web Developer and Web Designer </h3><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" /></p>
 <p>Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. Knock me:https://www.facebook.com/rahmatullah.badsha.33/</p><br>
-Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<br>
+Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<br><br>
+
 - 🔭 I’m currently working on [JAVASCRIPT PROJECTS]
 
 - 🌱 I’m currently learning **JS,BOOTSTRAP**
@@ -25,7 +26,6 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Tamhat)  <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tamhat)  
