@@ -46,3 +46,5 @@ see the code on here:https://github.com/Tamhat/Homework-01<br><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_70.png"><br>
 <h1 align="center">EXPERT DOCTORS</h1><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_71.png"><br>
+  <h1 align="center">OUR DEPARTMENTS</h1><br>
+<img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_72.png"><br>
