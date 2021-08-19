@@ -38,10 +38,11 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
 ![GitHub metrics](https://metrics.lecoq.io/Tamhat)  <br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  <br>
 <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
-________--------------_________ <br>
+<p align="center">__________________________________________--------------------___________________________________________</p><br>
 <h1 align="center">THIS IS AN PROJECT FOR HOSPITAL</h1 <br>
 here is the live link :https://tamhat.github.io/Homework-01/ <br>
-see the code on here:https://github.com/Tamhat/Homework-01<BR>
+see the code on here:https://github.com/Tamhat/Homework-01<br><br>
+  
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_70.png"><br>
 <h1 align="center">DISCRIPTION</h1><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_71.png"><br>
