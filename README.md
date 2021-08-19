@@ -41,4 +41,4 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tamhat)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  <br>
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  
