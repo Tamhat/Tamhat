@@ -42,6 +42,7 @@ ________--------------_________ <br>
 <h1 align="center">THIS IS AN PROJECT FOR HOSPITAL</h1 <br>
 here is the live link :https://tamhat.github.io/Homework-01/ <br>
 see the code on here:https://github.com/Tamhat/Homework-01<BR>
-DISCRIPTION <br>
+<h1 align="center">DISCRIPTION</h1><br>
 Using only html and css
+<img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_70.png"><br>
   
