@@ -42,7 +42,7 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
 </p>
 <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
 <p align="center">__________________________________________--------------------___________________________________________</p><br>
-<h1 align="center">THIS IS AN PROJECT FOR HOSPITAL</h1 <br>
+<h1 align="center">THIS IS AN PROJECT FOR HOSPITAL SERVICES</h1 <br>
 here is the live link :https://tamhat.github.io/Homework-01/ <br>
 see the code on here:https://github.com/Tamhat/Homework-01<br><br>
   
@@ -55,7 +55,7 @@ see the code on here:https://github.com/Tamhat/Homework-01<br><br>
 Good Health</h1><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_73.png"><br>
 <p align="center">_________________________________________________________----------------------------------------___________________________________________________</p><br>
-<h1 align="center">THIS IS AN ANOTHER PROJECT FOR AGENCY</h1 <br>
+<h1 align="center">THIS IS AN ANOTHER PROJECT FOR DIGITAL MARKETERS</h1 <br>
 Here is the live link: https://tamhat.github.io/Homework-02/ <br>
 See the code on here: https://github.com/Tamhat/Homework-02<br><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_75.png"><br>
