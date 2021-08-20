@@ -64,8 +64,8 @@ See the code on here: https://github.com/Tamhat/Homework-02<br><br>
 <h1 align="center">TESTOMINALS</h1><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_77.png"><br>
 <h1 align="center">OUR SERVICES</h1><br>
-<img style{
+<img style="
 display:"flex"
 justify-content:"center"
 margin-left:"10000px"
-} src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_78.png"><br>
+" src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_78.png"><br>
