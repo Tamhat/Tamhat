@@ -44,7 +44,6 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true&count_private=true)  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub metrics](https://metrics.lecoq.io/Tamhat)  <br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  <br><br>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
@@ -52,8 +51,8 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
 <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
 <p align="center">__________________________________________--------------------___________________________________________</p><br>
 <h1 align="center">THIS IS AN PROJECT FOR HOSPITAL SERVICES</h1 <br>
-here is the live link :https://tamhat.github.io/Homework-01/ <br>
-see the code on here:https://github.com/Tamhat/Homework-01<br><br>
+here is the live Link: https://tamhat.github.io/Homework-01/ <br>
+see the code on Here: https://github.com/Tamhat/Homework-01<br><br>
   
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_70.png"><br>
 <h1 align="center">EXPERT DOCTORS</h1><br>
