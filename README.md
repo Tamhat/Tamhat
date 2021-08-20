@@ -61,5 +61,7 @@ See the code on here: https://github.com/Tamhat/Homework-02<br><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_75.png"><br>
 <h1 align="center">WHY OUR AGENCY ?</h1><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_76.png"><br>
-<h1 align="center">OUR SERVICES</h1><br>
+<h1 align="center">TESTOMINALS</h1><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_77.png"><br>
+<h1 align="center">OUR SERVICES</h1><br>
+<img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_78.png"><br>
