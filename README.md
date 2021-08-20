@@ -86,4 +86,4 @@ Here is the live link: https://tamhat.github.io/google-fresh/ <br>
 See the code on here:  https://github.com/Tamhat/google-fresh/<br><br>
 <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_85.png"><br>
   <h1 align="center">🌺🌺🌺THANKS FOR VISIT MY  GITHUB PROFILE🌺🌺🌺</h1><br>
-<img src="https://github.com/Tamhat/Tamhat/blob/main/webing.jpg"><br>
+<br><br><img src="https://github.com/Tamhat/Tamhat/blob/main/webing.jpg"><br><br>
