@@ -41,7 +41,7 @@ Skills: / JS / HTML / CSS/ PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ content writing<
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true&count_private=true)  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
 ![GitHub metrics](https://metrics.lecoq.io/Tamhat)  
