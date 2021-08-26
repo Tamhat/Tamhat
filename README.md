@@ -56,8 +56,8 @@ here is the live Link:https://tamhat.github.io/project-2.0/
 see the code on Here:https://github.com/Tamhat/project-2.0/tree/gh-pages<br><br>
   
   <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_39.png"><br> 
-  <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot%2041.png"><br>  
-<img src="https://www.messenger.com/messenger_media/?thread_id=100052338741612&attachment_id=4369043406550197&message_id=mid.%24cAABa_0AcEWyBshWNr17gJaOwYNBp"><br>
+  <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot%2041.png"><br>
+  <img src="https://github.com/Tamhat/Tamhat/blob/main/Screenshot_40.png"><br> 
 <p align="center">__________________________________________--------------------___________________________________________</p><br>
 <h1 align="center">THIS IS AN PROJECT FOR HOSPITAL SERVICES</h1 <br>
 here is the live Link: https://tamhat.github.io/Homework-01/ <br>
