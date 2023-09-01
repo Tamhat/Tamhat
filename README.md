@@ -45,24 +45,24 @@ Skills: HTML5 / CSS3/ BOOTSTRAP5/SCSS/TAILWIND CSS/JAVASCRIPT PHOTOSHOP / PREMIE
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
 ![GitHub metrics](https://metrics.lecoq.io/Tamhat)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  <br><br>
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
 <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
-<p align="center">__________________________________________--------------------___________________________________________</p><br>
-<h1 align="center">THIS IS AN PROJECT FOR ECOMMERCE WEBSITE </h1 <br>
-here is the live Link:https://tamhat.github.io/project-2.0/
-see the code on Here:https://github.com/Tamhat/project-2.0/tree/gh-pages<br><br>
-<p align="center">__________________________________________--------------------___________________________________________</p><br>
-<h1 align="center">THIS IS AN PROJECT FOR HOSPITAL SERVICES</h1 <br>
-here is the live Link: https://tamhat.github.io/Homework-01/ <br>
-see the code on Here: https://github.com/Tamhat/Homework-01<br><br>
-<p align="center">_________________________________________________________----------------------------------------___________________________________________________</p><br>
-<h1 align="center">THIS IS AN ANOTHER PROJECT FOR DIGITAL MARKETERS</h1 <br>
-Here is the live link: https://tamhat.github.io/Homework-02/ <br>
-See the code on here: https://github.com/Tamhat/Homework-02<br><br>
-<p align="center">_________________________________________________________----------------------------------------___________________________________________________</p><br>
-<h1 align="center">THIS IS A PORTFOLIO PROJECT</h1> <br>
-Here is the live link: https://tamhat.github.io/Rahmat-ullah-badsha-profile/ <br>
-See the code on here:  https://github.com/Tamhat/Rahmat-ullah-badsha-profile/<br><br>
-<p align="center">_____________________________________----------------😃😃😃😃-----------------____________________________________________</p><br>
+ECCOMMERCE APPLICATION: https://ecommerce-app-server-dpe6.onrender.com/ <br>
+SOCIAL-MEDIA APPLICATION: https://phorst-app.vercel.app/ <br>
+CHAT APPLICATION: https://rahmat-chat-app.vercel.app/ <br>
+VIDEO MEETING APPLICATION: https://video-app-rahmat.vercel.app/ <br>
+PORTFOLIO: https://rahma-dev.vercel.app/ <br>
+BEAUTIFUL UI : https://romax-dev.vercel.app/ <br>
+WEB AGENCY: https://wealee.vercel.app/ <br>
+TRAVEL WEB : https://wealee-rahma.vercel.app/ <br>
+CAKE ZONE: https://cakezone-zeta.vercel.app <br>
+CAAFE WEB: https://zon-cafee-1.vercel.app/ <br>
+WELDING WEB: https://tro-weld.vercel.app/ <br>
+RESTAURANT: https://restoran-lyart.vercel.app/ <br>
+CONSULTING: https://foste-fawn.vercel.app <br>
+CAFE: https://doze-cafe.vercel.app/ <br>
+FURNITURE: https://digitf.vercel.app/ <br>
+CARCLEAN: https://car-clean-drab.vercel.app/ <br>
+BITCOINN: https://geekedgorillas.io/ <br>
+HOSPITAL: https://rahmat-hospital-service.vercel.app/ <br>
+Landing page: https://rahmat-ullah-badsha-profile.vercel.app/ <br>
+MY OLD PORTFOLIO: https://tamhat-github-io.vercel.app/ <br>
