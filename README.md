@@ -1,25 +1,24 @@
 <img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
-<h1 align="center">Hi 👋, I'm CODER BOY RAHMAT<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1><h3 align="center">MERN Stack Web Developer and Web Designer </h3><br>
+<h1 align="center">Hi 👋, I'm Rahmat Ullah<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1><h3 align="center">MERN Stack Web Developer || Frontend & Backend Dev</h3><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" /></p>
-<p>Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. Knock me : https://www.facebook.com/rahmatullah.badsha.33/</p><br>
-Skills: HTML5 / CSS3/ BOOTSTRAP5/SCSS/TAILWIND CSS/JAVASCRIPT PHOTOSHOP / PREMIERE PRO /BOOTSTRAP/ FIGMA /BLENDER /LOGO DESIGN content writing<br>
+<p>Welcome to my GitHub profile. I am a MERN Stack Developer with a Passion of building my own startup and gathering experiences. 
+Knock me : <a href="https://facebook.com/rahmatullah.433">Facebook</a> <a href="mail:rahmatur02982@gmail.com">Email</a><a href="">Whatsapp: +8801714382955</a></p><br>
+Skills: Frontend, Backend, Python, React Js, NextJs, MongoDB, ExpressJs, Nodejs, Javascript, Tailwind CSS, Material UI, Bootstrap, CSS, Github, Vercel, Render,Web Scrapping, DataBase, Design, Api<br>
 
-- 🔭 I’m currently working on [REACT PROJECTS]
-
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Ai, POS Software**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tamhat](https://github.com/Tamhat)
 
-- 📝 I regularly write articles on [https://coderboyrahmat.me/](https://coderboyrahmat.me/)
+- 📝 I regularly write articles on [https://rahma-dev.vercel.app/](https://rahma-dev.vercel.app/)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,scss,tailwind,react**
+- 💬 Ask me about **Design, Development, Stacks, Python Automation, Python Scarpping**
 
 - 📫 How to reach me **rahmatur02982@gmail.com**
 
-- 📄 All About Me : [https://coderboyrahmat.me/](https://coderboyrahmat.me/)<br>
+- 📄 All About Me : [https://rahma-dev.vercel.app/](https://rahma-dev.vercel.app/)<br>
 <h3 align="left">Connect with me:</h3> <p align="left"> 
   <p align="left">
-<a href="https://fb.com/rahmatullah.badsha.33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
+<a href="https://facebook.com/rahmatullah.433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
 <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahmat-ullah-7605221b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://codepen.io/tamhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
@@ -43,8 +42,6 @@ Skills: HTML5 / CSS3/ BOOTSTRAP5/SCSS/TAILWIND CSS/JAVASCRIPT PHOTOSHOP / PREMIE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true&count_private=true)  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
-![GitHub metrics](https://metrics.lecoq.io/Tamhat)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tamhat)  <br><br>
 <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
 ECCOMMERCE APPLICATION: https://ecommerce-app-server-dpe6.onrender.com/ <br>
 SOCIAL-MEDIA APPLICATION: https://phorst-app.vercel.app/ <br>
