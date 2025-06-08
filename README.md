@@ -159,19 +159,44 @@ If you're interested in collaborating or have a project in mind, feel free to re
 **Book a 20-Min Call**
 
 <!-- Cal inline embed code begins -->
-<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline"></div>
+<!-- Calendar Booking Section -->
+<h2>Book a 20-Min Call</h2>
+
+<!-- Inline Calendar Container -->
+<div id="my-cal-inline" style="width: 100%; height: 700px;"></div>
+
+<!-- Cal.com Embed Script -->
 <script type="text/javascript">
-  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
-Cal("init", "30min", {origin:"https://cal.com"});
+  (function () {
+    const script = document.createElement("script");
+    script.src = "https://cal.com/embed.js"; 
+    script.async = true;
+    document.head.appendChild(script);
 
-  Cal.ns["30min"]("inline", {
-    elementOrSelector:"#my-cal-inline",
-    config: {"layout":"month_view"},
-    calLink: "devrahmat/30min",
-  });
+    script.onload = function () {
+      window.Cal = window.Cal || function () {
+        (window.Cal.q = window.Cal.q || []).push(arguments);
+      };
 
-  Cal.ns["30min"]("ui", {"hideEventTypeDetails":false,"layout":"month_view"});
-  </script>
+      // Initialize inline calendar after script loads
+      window.Cal.ns = window.Cal.ns || {};
+      window.Cal("init");
+
+      window.Cal.ns["30min"]("inline", {
+        elementOrSelector: "#my-cal-inline",
+        calLink: "devrahmat/30min",
+        config: {
+          layout: "month_view"
+        }
+      });
+
+      window.Cal.ns["30min"]("ui", {
+        hideEventTypeDetails: false,
+        layout: "month_view"
+      });
+    };
+  })();
+</script>
   <!-- Cal inline embed code ends -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
