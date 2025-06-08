@@ -166,27 +166,8 @@ If you're interested in collaborating or have a project in mind, feel free to re
 <div id="my-cal-inline" style="width: 100%; height: 700px;"></div>
 
 <!-- Cal.com Embed Script -->
-<a href="https://cal.com/devrahmat/30min"  target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="
-    background: linear-gradient(135deg, #00c6ff, #0072ff);
-    color: white;
-    padding: 18px 32px;
-    border-radius: 12px;
-    font-size: 18px;
-    font-weight: bold;
-    text-align: center;
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
-    width: max-content;
-    margin: 20px auto;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    display: inline-block;
-    cursor: pointer;
-  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.2)'">
-    📅 Book a 20-Min Call
-  </div>
-</a>
-  <!-- Cal inline embed code ends -->
+[![Book a Call](https://raw.githubusercontent.com/Tamhat/assets/main/book-a-call-button.png)](https://cal.com/devrahmat/30min) 
+<!-- Cal inline embed code ends -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
 <!-- <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
