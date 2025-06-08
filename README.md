@@ -168,12 +168,8 @@ If you're interested in collaborating or have a project in mind, feel free to re
 <!-- Cal.com Embed Script -->
 <h2 align="center">Book a 20-Min Call</h2>
 <a href="https://cal.com/devrahmat/30min"> 
-  <img src="book-a-call-button.png" alt="Book a Call" width="300">
+  <img src="https://www.pngmart.com/files/3/Book-Now-Button-PNG-Pic.png" alt="Book a Call" width="300">
 </a>
-
-<h2 align="center">Most Used Languages</h2>
-<style> .text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: bold; fill: white; dominant-baseline: middle; text-anchor: middle; } </style>
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Cal inline embed code ends -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
