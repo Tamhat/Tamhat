@@ -166,7 +166,7 @@ If you're interested in collaborating or have a project in mind, feel free to re
 <div id="my-cal-inline" style="width: 100%; height: 700px;"></div>
 
 <!-- Cal.com Embed Script -->
-[📅 Book a 20-Min Call](https://cal.com/devrahmat/30min)
+📅 Book a 20-Min Call](https://cal-easy-booking-view.lovable.app/)
   <!-- Cal inline embed code ends -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
