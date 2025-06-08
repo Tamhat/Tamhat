@@ -13,11 +13,11 @@
 
 ## 🚀 Rahmat Ullah | Full Stack Developer | Systems Thinker | Builder
 
-<div align="center">
-  <a href="https://github.com/Tamhat">Github</a>
-  <a href="https://linkedin.com/in/devrahmat">Linkedin</a>
-  <a href="mailto:devrahmatullah@gmail.com">Email</a>
-  <a href="https://rahma-dev.vercel.app/">Website</a>
+<div align="left">
+  Phone: +8801924259064
+  Email: devrahmatullah@gmail.com
+  Linkedin: https://linkedin.com/in/devrahmat
+  Website: https://rahma-dev.vercel.app/
   <img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" />
 </div>
 
