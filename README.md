@@ -155,7 +155,7 @@ If you're interested in collaborating or have a project in mind, feel free to re
 </a>
 <!-- Cal inline embed code ends -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br> -->
 <!-- <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
 ECCOMMERCE APPLICATION: https://ecommerce-app-server-dpe6.onrender.com/ <br>
 SOCIAL-MEDIA APPLICATION: https://phorst-app.vercel.app/ <br>
