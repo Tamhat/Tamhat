@@ -166,7 +166,29 @@ If you're interested in collaborating or have a project in mind, feel free to re
 <div id="my-cal-inline" style="width: 100%; height: 700px;"></div>
 
 <!-- Cal.com Embed Script -->
-[![Book a Call](https://raw.githubusercontent.com/Tamhat/assets/main/book-a-call-button.png)](https://cal.com/devrahmat/30min) 
+<svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .text {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        fill: white;
+        dominant-baseline: middle;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" rx="12" ry="12" width="300" height="60" fill="url(#grad1)" />
+  <g class="text" transform="translate(150,30)">
+    <tspan x="0" dy="-6">📅 Book a 20-Min Call</tspan>
+  </g>
+</svg>
 <!-- Cal inline embed code ends -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
