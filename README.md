@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/devrahmat">Linkedin</a>
   <a href="mailto:devrahmatullah@gmail.com">Email</a>
   <a href="https://rahma-dev.vercel.app/">Website</a>
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" /></p>
+  <img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" />
 </div>
 
 ---
