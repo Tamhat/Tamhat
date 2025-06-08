@@ -5,39 +5,161 @@
 Knock me : <a href="https://facebook.com/rahmatullah.433">Facebook</a> <a href="mail:rahmatur02982@gmail.com">Email</a><a href="">Whatsapp: +8801714382955</a></p><br>
 Skills: Frontend, Backend, Python, React Js, NextJs, MongoDB, ExpressJs, Nodejs, Javascript, Tailwind CSS, Material UI, Bootstrap, CSS, Github, Vercel, Render,Web Scrapping, DataBase, Design, Api<br>
 
-- 🌱 I’m currently learning **Ai, POS Software**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Tamhat](https://github.com/Tamhat)
-
-- 📝 I regularly write articles on [https://rahma-dev.vercel.app/](https://rahma-dev.vercel.app/)
-
-- 💬 Ask me about **Design, Development, Stacks, Python Automation, Python Scarpping**
-
-- 📫 How to reach me **rahmatur02982@gmail.com**
-
-- 📄 All About Me : [https://rahma-dev.vercel.app/](https://rahma-dev.vercel.app/)<br>
-<h3 align="left">Connect with me:</h3> <p align="left"> 
-  <p align="left">
-<a href="https://facebook.com/rahmatullah.433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahmat-ullah-7605221b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/tamhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
-<a href="https://instagram.com/badsharahmatullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/ulldvdah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/rahmatbadsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="[banner.jpg](https://i.ibb.co/gbWbqtJM/Professional-Linked-In-Banner-2.jpg)" alt="Full Stack Developer" width="100%">
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
+
+---
+
+## 🚀 Rahmat Ullah | Full Stack Developer | Systems Thinker | Builder
+
+<div align="center">
+  <a href="https://github.com/Tamhat"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/devrahmat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:devrahmatullah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://rahma-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</div>
+
+---
+
+### 💼 About Me 
+
+I am a **Full Stack Developer** with over **5+ years of experience** in delivering high-performance web applications. Skilled in JavaScript, Python, and frameworks/libraries like React.js, Vue.js, Next.js, Express.js, and Node.js. With a strong foundation in both frontend and backend development, I build scalable, high-performance applications that meet complex business needs. Adept in RESTful APIs, database management, and implementing clean, maintainable code aligned with industry best practices.
+
+---
+
+### 🔧 Technical Skills
+
+#### Programming & Scripting Languages:
+- Python, JavaScript, TypeScript
+
+#### Frontend Technologies:
+- React.js, Next.js, Vue.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3
+
+#### Backend & Frameworks:
+- Node.js, Express.js, REST APIs, JWT, Socket.IO, WordPress
+
+#### Database & ORM:
+- MongoDB, Mongoose, Firebase
+
+#### Payment Gateways:
+- Stripe, PayPal, Square
+
+#### DevOps & Deployment:
+- Git, GitHub, Docker (basic), Vercel, Heroku, Netlify
+
+#### Tools:
+- Postman, Figma, VSCode, Notion, Chrome DevTools, Terminal, Unit Testing
+
+#### SMS & Communication:
+- Twilio, Nodemailer, SoftbartaSMS
+
+#### Automation & Scraping:
+- Web Scraping, Data Extraction, Browser Automation, Task Automation, Headless Browsing, Beautiful Soup, Scrapy, Selenium (WebDriver), Playwright (Python, multi-browser automation), Pandas, PyAutoGUI, PyGetWindow, pywinauto
+
+#### Other:
+- Problem-solving, project tracking tools, WebSockets, Coinbase Commerce, Cron Jobs, Bug Hunting, SEO Optimization
+
+---
+
+### 👨‍💻 Professional Experience
+
+#### **Full Stack Developer — WebBang LTD UK**
+- **MERN & MEVN** | United Kingdom | July 2024 – December 2024
+  - Developed key features for an automotive web-based software.
+  - Built SMS Gateway integrations to reduce costs.
+  - Implemented Auto File Encryption & Decryption Features.
+
+#### **Full Stack Developer — Ai Tech Craft LTD**
+- **MERN & Design & Scraping** | Remote | December 2023 – June 2024
+  - Collaborated on building an AI Tool Directory.
+  - Built a Customized Dashboard for managing AI tools.
+  - Improved React component performance by reducing render time by **35%**.
+  - Designed reusable component libraries, reducing future development time by **20%**.
+  - Developed a Web Scraper to extract specific data from targeted sources.
+
+#### **Senior Frontend Developer — GEEK GORILLA LTD**
+- **MERN** | United States | June 2021 – August 2022
+  - Improved UX performance by optimizing React components, reducing render time by **35%**.
+  - Designed reusable component libraries, reducing future development time by **20%**.
+
+#### **Full Stack Developer — Freelance & Remote**
+- **MERN** | Remote | February 2021 – August 2023
+  - Worked on projects across 12+ countries through freelance platforms.
+  - Gathered solid testimonials about project outcomes from clients.
+  - Most projects were NFT & Blockchain-based.
+
+#### **Founder & CEO — SwiftHype (Swifthype.tech)**
+- **Web Development, SaaS, SMM Company** | Dhaka, Bangladesh | December 2024 – Present
+  - Launched and scaled a digital agency offering web development, social media marketing (SMM), and SaaS solutions tailored for local and international businesses.
+  - Led client acquisition, business development, and project execution, securing high-conversion clients in niche markets.
+  - Oversaw cross-functional teams to deliver conversion-optimized websites, paid ad campaigns, and growth-driven marketing strategies.
+  - Built internal systems and processes to streamline service delivery using automation tools.
+
+#### **Founder & CEO — LeadSahra (LeadSahra.com)**
+- **Advertising & AI-Based Services Company** | Las Vegas, NV, USA | March 2025 – Present
+  - Launched and scaled a results-driven agency specializing in Meta (Facebook & Instagram) ads, AI automation, and sales funnel systems for service-based businesses.
+  - Developed an "$100M Offer" framework to help clients attract and convert high-ticket customers.
+  - Built a proprietary lead generation system leveraging cold outreach (DMs, email, SMS) and AI tools, generating 20–50 qualified leads weekly per client.
+  - Systematized client acquisition, onboarding, and fulfillment using automations and virtual assistants.
+
+---
+
+### 🌟 Key Projects
+
+#### **Chat App**
+- **Technologies:** React, TypeScript, ChatEngine.io
+- **Description:** A fully functional full-stack chat application enabling real-time communication. Integrates with Chat Engine for backend services, including user authentication and message handling.
+- **Role & Contributions:** Sole developer. Implemented frontend UI using React and TypeScript, and integrated Chat Engine API for authentication and messaging functionality.
+- **Features:** Real-time chat, user authentication, responsive UI, production-optimized build.
+
+#### **Full Stack Ecommerce Website**
+- **Technologies:** Node.js, Express, MongoDB, MERN Stack
+- **Description:** A backend service for a full-stack ecommerce application built using the MERN stack. Supports core functionalities like product management, user authentication, and order handling.
+- **Role & Contributions:** Sole developer of the backend API. Built RESTful endpoints using Express.js and connected them to a MongoDB database for scalable data handling.
+- **Features:** RESTful API architecture, user authentication system, product and order management setup, ready for frontend integration.
+
+---
+
+### 🎓 Education
+
+- **Diploma in Engineering – Computer Science & Technology**
+  - Munshiganj Polytechnic Institute, Bangladesh | 2023 – Present
+- **Secondary School Certificate (SSC)** | 2022
+
+---
+
+### 🏆 Achievements & Traits
+
+- Self-taught MERN developer who learned by building and shipping.
+- Built 3 freelance products used in production by real-world clients.
+- Solves problems using first principles and rapid prototyping.
+- Fast learner, can ship features within tight deadlines.
+
+---
+
+### 📞 Contact
+
+- **Phone:** +880-1924259064
+- **Email:** devrahmatullah@gmail.com
+- **Portfolio:** [rahma-dev.vercel.app](https://rahma-dev.vercel.app/) 
+- **GitHub:** [Tamhat](https://github.com/Tamhat) 
+- **LinkedIn:** [devrahmat](https://linkedin.com/in/devrahmat) 
+
+---
+
+### 🚀 Let's Build Something Great Together!
+
+If you're interested in collaborating or have a project in mind, feel free to reach out! You can book a **20-minute call** to discuss how I can contribute to your vision.
+
+---
+
+**"Designing Systems That Can Scale Biz"**
+
+**Build Now Your Verse**
+
+**Book a 20-Min Call**
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true&count_private=true)  
