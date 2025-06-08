@@ -7,7 +7,7 @@ Skills: Frontend, Backend, Python, React Js, NextJs, MongoDB, ExpressJs, Nodejs,
 
 <!-- Banner Image -->
 <p align="center">
-  <img href="[banner.jpg](https://i.ibb.co/gbWbqtJM/Professional-Linked-In-Banner-2.jpg)" alt="Full Stack Developer" width="100%">
+  <img href="https://i.ibb.co/gbWbqtJM/Professional-Linked-In-Banner-2.jpg" alt="Full Stack Developer" width="100%">
 </p>
 
 ---
