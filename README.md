@@ -168,7 +168,7 @@ If you're interested in collaborating or have a project in mind, feel free to re
 <!-- Cal.com Embed Script -->
 <h2 align="center">Book a 20-Min Call</h2>
 <a href="https://cal.com/devrahmat/30min"> 
-  <img src="https://img001.prntscr.com/file/img001/w3AJ6HoQSW2iuo1B2IdMaA.png" alt="Book a Call" width="300">
+  <img src="https://img001.prntscr.com/file/img001/w3AJ6HoQSW2iuo1B2IdMaA.png" alt="Book a Call">
 </a>
 <!-- Cal inline embed code ends -->
   
