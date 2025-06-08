@@ -3,7 +3,12 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://img001.prntscr.com/file/img001/RhO8exTTRAWniVY1vq1VIg.png" alt="Full Stack Developer" width="100%">
+  <img 
+    src="https://img001.prntscr.com/file/img001/RhO8exTTRAWniVY1vq1VIg.png"  
+    alt="Full Stack Developer" 
+    width="100%" 
+    style="border-radius: 16px;"
+  >
 </p>
 
 ---
