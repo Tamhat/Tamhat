@@ -166,37 +166,13 @@ If you're interested in collaborating or have a project in mind, feel free to re
 <div id="my-cal-inline" style="width: 100%; height: 700px;"></div>
 
 <!-- Cal.com Embed Script -->
-<script type="text/javascript">
-  (function () {
-    const script = document.createElement("script");
-    script.src = "https://cal.com/embed.js"; 
-    script.async = true;
-    document.head.appendChild(script);
-
-    script.onload = function () {
-      window.Cal = window.Cal || function () {
-        (window.Cal.q = window.Cal.q || []).push(arguments);
-      };
-
-      // Initialize inline calendar after script loads
-      window.Cal.ns = window.Cal.ns || {};
-      window.Cal("init");
-
-      window.Cal.ns["30min"]("inline", {
-        elementOrSelector: "#my-cal-inline",
-        calLink: "devrahmat/30min",
-        config: {
-          layout: "month_view"
-        }
-      });
-
-      window.Cal.ns["30min"]("ui", {
-        hideEventTypeDetails: false,
-        layout: "month_view"
-      });
-    };
-  })();
-</script>
+<iframe
+  src="https://cal.com/devrahmat/30min" 
+  width="100%"
+  height="700"
+  frameborder="0"
+  scrolling="no"
+></iframe>
   <!-- Cal inline embed code ends -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
