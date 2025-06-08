@@ -3,7 +3,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img href="https://i.ibb.co/gbWbqtJM/Professional-Linked-In-Banner-2.jpg" alt="Full Stack Developer" width="100%">
+  <img src="https://img001.prntscr.com/file/img001/RhO8exTTRAWniVY1vq1VIg.png" alt="Full Stack Developer" width="100%">
 </p>
 
 ---
