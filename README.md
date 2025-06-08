@@ -2,15 +2,13 @@
 <!-- <img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"> -->
 
 <!-- Banner Image -->
-<p align="center">
+<div align="center" style="border-radius: 16px; overflow: hidden; width: 100%;">
   <img 
     src="https://img001.prntscr.com/file/img001/RhO8exTTRAWniVY1vq1VIg.png"  
     alt="Full Stack Developer" 
-    width="100%" 
-    style="border-radius: 16px;"
+    width="100%"
   >
-</p>
-
+</div>
 ---
 
 ## 🚀 Rahmat Ullah | Full Stack Developer | Systems Thinker | Builder
