@@ -14,10 +14,7 @@
 ## 🚀 Rahmat Ullah | Full Stack Developer | Systems Thinker | Builder
 
 <div align="left">
-  Phone: +8801924259064
-  Email: devrahmatullah@gmail.com
-  Linkedin: https://linkedin.com/in/devrahmat
-  Website: https://rahma-dev.vercel.app/
+  Phone: +8801924259064 || Email: devrahmatullah@gmail.com || Linkedin: https://linkedin.com/in/devrahmat || Website: https://rahma-dev.vercel.app/ </br>
   <img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" />
 </div>
 
