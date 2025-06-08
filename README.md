@@ -1,9 +1,6 @@
 <img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 <h1 align="center">Hi 👋, I'm Rahmat Ullah<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1><h3 align="center">MERN Stack Web Developer || Frontend & Backend Dev</h3><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" /></p>
-<p>Welcome to my GitHub profile. I am a MERN Stack Developer with a Passion of building my own startup and gathering experiences. 
-Knock me : <a href="https://facebook.com/rahmatullah.433">Facebook</a> <a href="mail:rahmatur02982@gmail.com">Email</a><a href="">Whatsapp: +8801714382955</a></p><br>
-Skills: Frontend, Backend, Python, React Js, NextJs, MongoDB, ExpressJs, Nodejs, Javascript, Tailwind CSS, Material UI, Bootstrap, CSS, Github, Vercel, Render,Web Scrapping, DataBase, Design, Api<br>
 
 <!-- Banner Image -->
 <p align="center">
@@ -35,7 +32,7 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 - Python, JavaScript, TypeScript
 
 #### Frontend Technologies:
-- React.js, Next.js, Vue.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3
+- React.js, Next.js, Vue.js, Redux, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3
 
 #### Backend & Frameworks:
 - Node.js, Express.js, REST APIs, JWT, Socket.IO, WordPress
