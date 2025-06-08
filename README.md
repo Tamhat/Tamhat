@@ -14,10 +14,10 @@
 ## 🚀 Rahmat Ullah | Full Stack Developer | Systems Thinker | Builder
 
 <div align="center">
-  <a href="https://github.com/Tamhat"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/devrahmat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:devrahmatullah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://rahma-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/Tamhat">Github</a>
+  <a href="https://linkedin.com/in/devrahmat">Linkedin</a>
+  <a href="mailto:devrahmatullah@gmail.com">Email</a>
+  <a href="https://rahma-dev.vercel.app/">Website</a>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=Tamhat&label=Profile%20views&color=0e75b6&style=flat" alt="tamhat" /></p>
 </div>
 
