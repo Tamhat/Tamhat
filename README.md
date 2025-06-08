@@ -4,7 +4,7 @@
 <!-- Banner Image -->
 <div align="center" style="border-radius: 16px; overflow: hidden; width: 100%;">
   <img 
-    src="https://img001.prntscr.com/file/img001/RhO8exTTRAWniVY1vq1VIg.png"  
+    src="https://img001.prntscr.com/file/img001/f4IHbIcwTmOoKtlsMOUAEw.png"  
     alt="Full Stack Developer" 
     width="100%"
   >
