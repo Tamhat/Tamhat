@@ -160,15 +160,14 @@ If you're interested in collaborating or have a project in mind, feel free to re
 
 <!-- Cal inline embed code begins -->
 <!-- Calendar Booking Section -->
-<h2>Book a 20-Min Call</h2>
-
-<!-- Inline Calendar Container -->
-<div id="my-cal-inline" style="width: 100%; height: 700px;"></div>
-
+<h2>📅Book a 20-Min Call</h2>
 <!-- Cal.com Embed Script -->
-<h2 align="center">Book a 20-Min Call</h2>
-<a href="https://cal.com/devrahmat/30min"> 
-  <img src="https://img001.prntscr.com/file/img001/w3AJ6HoQSW2iuo1B2IdMaA.png" alt="Book a Call">
+<a href="https://cal.com/devrahmat/30min"  target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img001.prntscr.com/file/img001/w3AJ6HoQSW2iuo1B2IdMaA.png"  
+    alt="Book a Call"
+    style="border-radius: 12px; border: 2px solid #0072ff; width: auto; max-width: 100%; height: auto;"
+  >
 </a>
 <!-- Cal inline embed code ends -->
   
