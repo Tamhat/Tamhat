@@ -26,8 +26,7 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 
 ### 🔧 Technical Skills
 
-#### Programming & Scripting Languages: 
-Python, JavaScript, TypeScript
+**Programming & Scripting Languages**: Python, JavaScript, TypeScript
 
 #### Frontend Technologies: React.js, Next.js, Vue.js, Redux, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3
 
