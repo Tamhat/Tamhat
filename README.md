@@ -159,8 +159,6 @@ If you're interested in collaborating or have a project in mind, feel free to re
 **Book a 20-Min Call**
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamhat&show_icons=true&count_private=true)  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhat&" alt="tamhat" /></p>
 <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
 ECCOMMERCE APPLICATION: https://ecommerce-app-server-dpe6.onrender.com/ <br>
 SOCIAL-MEDIA APPLICATION: https://phorst-app.vercel.app/ <br>
