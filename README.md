@@ -28,21 +28,21 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 
 **Programming & Scripting Languages**: Python, JavaScript, TypeScript
 
-#### Frontend Technologies: React.js, Next.js, Vue.js, Redux, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3
+**Frontend Technologies**: React.js, Next.js, Vue.js, Redux, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3
 
-#### Backend & Frameworks: Node.js, Express.js, REST APIs, JWT, Socket.IO, WordPress
+**Backend & Frameworks**: Node.js, Express.js, REST APIs, JWT, Socket.IO, WordPress
 
-#### Database & ORM: MongoDB, Mongoose, Firebase
+**Database & ORM**: MongoDB, Mongoose, Firebase
 
-#### Payment Gateways: Stripe, PayPal, Square
+**Payment Gateways**: Stripe, PayPal, Square
 
-#### DevOps & Deployment: Git, GitHub, Docker (basic), Vercel, Heroku, Netlify
+**DevOps & Deployment**: Git, GitHub, Docker (basic), Vercel, Heroku, Netlify
 
-#### Tools: Postman, Figma, VSCode, Notion, Chrome DevTools, Terminal, Unit Testing
+**Tools**: Postman, Figma, VSCode, Notion, Chrome DevTools, Terminal, Unit Testing
 
-#### SMS & Communication: Twilio, Nodemailer, SoftbartaSMS
+**SMS & Communication**: Twilio, Nodemailer, SoftbartaSMS
 
-#### Automation & Scraping:
+**Automation & Scraping**:
 - Web Scraping, Data Extraction, Browser Automation, Task Automation, Headless Browsing, Beautiful Soup, Scrapy, Selenium (WebDriver), Playwright (Python, multi-browser automation), Pandas, PyAutoGUI, PyGetWindow, pywinauto
 
 #### Other:
