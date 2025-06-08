@@ -1,4 +1,5 @@
-<img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
+<!-- Binary Code Human Walking Image -->
+<!-- <img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"> -->
 
 <!-- Banner Image -->
 <p align="center">
