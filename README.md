@@ -156,7 +156,7 @@ If you're interested in collaborating or have a project in mind, feel free to re
 <!-- Cal inline embed code ends -->
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br> -->
-<!-- <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
+<h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
 ECCOMMERCE APPLICATION: https://ecommerce-app-server-dpe6.onrender.com/ <br>
 SOCIAL-MEDIA APPLICATION: https://phorst-app.vercel.app/ <br>
 CHAT APPLICATION: https://rahmat-chat-app.vercel.app/ <br>
@@ -176,4 +176,4 @@ CARCLEAN: https://car-clean-drab.vercel.app/ <br>
 BITCOINN: https://geekedgorillas.io/ <br>
 HOSPITAL: https://rahmat-hospital-service.vercel.app/ <br>
 Landing page: https://rahmat-ullah-badsha-profile.vercel.app/ <br>
-MY OLD PORTFOLIO: https://tamhat-github-io.vercel.app/ <br> -->
+MY OLD PORTFOLIO: https://tamhat-github-io.vercel.app/ <br>
