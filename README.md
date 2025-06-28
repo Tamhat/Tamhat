@@ -178,7 +178,7 @@ HOSPITAL: https://rahmat-hospital-service.vercel.app/ <br>
 Landing page: https://rahmat-ullah-badsha-profile.vercel.app/ <br>
 MY OLD PORTFOLIO: https://tamhat-github-io.vercel.app/ <br>
 
-## 🧑‍🏫 **All Projects**
+## 💎🎫 **All Projects**
 
 | `S.No` | `Major Project`   |                        `Live Link`                        |                                 `GitHub Link`                                 |                                                                               `Linked Post`                                                                                |
 | :----: | :---------------- | :-------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
