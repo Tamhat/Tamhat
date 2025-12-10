@@ -32,7 +32,9 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 
 **Backend & Frameworks**: Node.js, Express.js, REST APIs, JWT, Socket.IO, WordPress
 
-**Database & ORM**: MongoDB, Mongoose, Firebase
+**Database & ORM**: MongoDB, Mongoose, Firebase, Cassandra 
+
+**Message Queue/Event Streaming**: Apache Kafka
 
 **Payment Gateways**: Stripe, PayPal, Square
 
