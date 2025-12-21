@@ -2,15 +2,15 @@
 <!-- <img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"> -->
 
 <!-- Banner Image -->
-<div align="center" style="border-radius: 16px; overflow: hidden; width: 100%;">
+<!-- <div align="center" style="border-radius: 16px; overflow: hidden; width: 100%;">
   <img 
     src="https://img001.prntscr.com/file/img001/f4IHbIcwTmOoKtlsMOUAEw.png"  
     alt="Full Stack Developer" 
     width="100%"
   >
-</div>
+</div> -->
 
-## 🚀 Rahmat Ullah | Full Stack Developer | Systems Thinker | Builder
+## Rahmat Ullah | Full Stack Developer | System Designer | System Architecturer | Systems Thinker | Builder
 
 <div align="left">
   Phone: +8801924259064 || Email: devrahmatullah@gmail.com || Linkedin: https://linkedin.com/in/devrahmat </br>
@@ -20,7 +20,7 @@
 
 ### 💼 About Me 
 
-I am a **Full Stack Developer** with over **5+ years of experience** in delivering high-performance web applications. Skilled in JavaScript, Python, and frameworks/libraries like React.js, Vue.js, Next.js, Express.js, and Node.js. With a strong foundation in both frontend and backend development, I build scalable, high-performance applications that meet complex business needs. Adept in RESTful APIs, database management, and implementing clean, maintainable code aligned with industry best practices.
+I am a **Full Stack Developer** with over **5+ years of experience** in delivering high-performance web applications. Skilled in Nodejs, JavaScript, Python, and frameworks/libraries like React.js, Vue.js, Next.js, Express.js, and Node.js. With a strong foundation in both frontend and backend development, I build scalable, high-performance applications that meet complex business needs. Adept in RESTful APIs, database management, and implementing clean, maintainable code aligned with industry best practices.
 
 ---
 
@@ -28,21 +28,21 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 
 **Programming & Scripting Languages**: Python, JavaScript, TypeScript
 
-**Frontend Technologies**: React.js, Next.js, Vue.js, Redux, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3
+**Frontend Technologies**: React.js, Next.js, Vue.js, Redux, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, WordPress.
 
-**Backend & Frameworks**: Node.js, Express.js, REST APIs, JWT, Socket.IO, WordPress
+**Backend & Frameworks**: Node.js, Express.js, REST APIs, JWT, Socket.IO.
 
-**Caching**: Redis 
+**Caching**: Redis
 
-**Database & ORM**: MongoDB, Mongoose, Firebase, Cassandra 
+**Database & ORM**: Cassandra, MongoDB, Mongoose, Firebase.
 
-**Message Queue/Event Streaming**: Apache Kafka
+**Message Queue/Event Streaming**: Apache Kafka, RabbitMQ.
 
 **Payment Gateways**: Stripe, PayPal, Square
 
 **DevOps & Deployment**: Git, GitHub, Docker (basic), Vercel, Heroku, Netlify
 
-**Tools**: Postman, Figma, VSCode, Notion, Chrome DevTools, Terminal, Unit Testing
+**Tools**: Postman, VSCode, Figma, Notion, Chrome DevTools, Terminal, Unit Testing
 
 **SMS & Communication**: Twilio, Nodemailer, SoftbartaSMS
 
