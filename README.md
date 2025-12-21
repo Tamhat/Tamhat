@@ -10,7 +10,7 @@
   >
 </div> -->
 
-## Rahmat Ullah | Full Stack Developer | System Designer | System Architecturer | Systems Thinker | Builder
+## Rahmat Ullah | Full Stack Developer | Software Engineer | System Designer | System Architecturer | Systems Thinker | Builder
 
 <div align="left">
   Phone: +8801924259064 || Email: devrahmatullah@gmail.com || Linkedin: https://linkedin.com/in/devrahmat </br>
