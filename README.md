@@ -196,16 +196,16 @@ If you're interested in collaborating or have a project in mind, feel free to re
 <h2>📅Book a 20-Min Call</h2>
 <!-- Cal.com Embed Script -->
 <a href="https://cal.com/devrahmat/30min"  target="_blank" rel="noopener noreferrer">
-  <img 
+  <!-- <img 
     src="https://img001.prntscr.com/file/img001/w3AJ6HoQSW2iuo1B2IdMaA.png"  
     alt="Book a Call"
     style="border-radius: 12px; border: 2px solid #0072ff; width: auto; max-width: 100%; height: auto;"
-  >
+  > -->
 </a>
 <!-- Cal inline embed code ends -->
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamhat)](https://github.com/anuraghazra/github-readme-stats)<br> -->
-<h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
+<!-- <h1 align="center">👇HERE IS ALL OF MY PROJECTS👇</h1><br>
 ECCOMMERCE APPLICATION: https://ecommerce-app-server-dpe6.onrender.com/ <br>
 SOCIAL-MEDIA APPLICATION: https://phorst-app.vercel.app/ <br>
 CHAT APPLICATION: https://rahmat-chat-app.vercel.app/ <br>
@@ -262,4 +262,4 @@ MY OLD PORTFOLIO: https://tamhat-github-io.vercel.app/ <br>
 |  `03`  | `Insta Story Js`   |  [`Link`](https://akashdeep023.github.io/Insta_Story_Js/)  |  [`Repository`](https://github.com/akashdeep023/Insta_Story_Js)  |
 |  `04`  | `Card Project Js`  | [`Link`](https://akashdeep023.github.io/Card_Project_Js/)  | [`Repository`](https://github.com/akashdeep023/Card_Project_Js)  |
 
----
+--- -->
