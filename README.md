@@ -26,28 +26,26 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 
 ### 🔧 Technical Skills
 
-**Programming & Scripting Languages**: Python, JavaScript, TypeScript
+**Programming & Scripting Languages**: C/C++, Java, JavaScript, SQL.
 
-**Frontend Technologies**: React.js, Next.js, Vue.js, Redux, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, WordPress.
+**Backend & Frameworks**: Spring Boot, Node.js, REST APIs, JWT, Oauth2, IAM, Websockets, Swagger/OpenAPI.
 
-**Backend & Frameworks**: Node.js, Express.js, REST APIs, JWT, Socket.IO.
+**Databases**: MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, Cassandra, Pinecone, BigQuery
 
-**Caching**: Redis
+**Messaging & Distributed Systems**: Apache Kafka, RabbitMQ, Apache Spark, Microservices, Distributed Systems, API Gateway, Config Server.
 
-**Database & ORM**: Cassandra, MongoDB, Mongoose, Firebase.
+**Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, Github Actions, Linux, Nginx, Vercel, Hostinger.
 
-**Message Queue/Event Streaming**: Apache Kafka, RabbitMQ.
+**Testing & Quality**: JUnit5, Mockito, JMeter, SonarQube, TestContainers, Postman.
 
-**Payment Gateways**: Stripe, PayPal, Square
-
-**DevOps & Deployment**: Git, GitHub, Docker (basic), Vercel, Heroku, Netlify
-
-**Tools**: Postman, VSCode, Figma, Notion, Chrome DevTools, Terminal, Unit Testing
+**Monitoring & Observability**: Prometheus, Grafana, Opentelemetry, Jaeger, Kibana, Logstash, Elasticsearch, New Relic.
 
 **SMS & Communication**: Twilio, Nodemailer, SoftbartaSMS
 
+**Frontend Technologies**: React.js, Next.js, Vue.js, Redux, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, WordPress.
+
 **Automation & Scraping**:
-- Web Scraping, Data Extraction, Browser Automation, Task Automation, Headless Browsing, Beautiful Soup, Scrapy, Selenium (WebDriver), Playwright (Python, multi-browser automation), Pandas, PyAutoGUI, PyGetWindow, pywinauto
+- RAG, N8N, Web Scraping, Data Extraction, Browser Automation, Task Automation, Headless Browsing, Beautiful Soup, Scrapy, Selenium (WebDriver), Playwright (Python, multi-browser automation), Pandas, PyAutoGUI, PyGetWindow, pywinauto
 
 #### Other:
 - Problem-solving, project tracking tools, WebSockets, Coinbase Commerce, Cron Jobs, Bug Hunting, SEO Optimization
@@ -56,11 +54,19 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 
 ### 👨‍💻 Professional Experience
 
-#### **Full Stack Developer — WebBang LTD UK**
-- **MERN & MEVN** | United Kingdom | July 2024 – December 2024
-  - Developed key features for an automotive web-based software.
-  - Built SMS Gateway integrations to reduce costs.
-  - Implemented Auto File Encryption & Decryption Features.
+#### **Software Engineer (Backend, Process Automation)** Uttara, Dhaka
+**Shothik AI** | Jul,2025 - 2026
+• Built process automation pipelines using Selenium and Playwright for browser task automation
+• Developed marketing automation workflows using n8n
+• Designed backend microservices using Node.js
+• Used Docker, Google Cloud Platform (GCP), and Redis for deployment and caching
+
+#### **Software Engineer** United Kingdom (Remote)
+**WebBang LTD (Full Stack Development)** Jul 2024 – 2025
+• Developed backend features for automotive ECU tuning platform enabling secure car performance customization
+• Implemented SMS gateway integration, significantly reducing communication costs
+• Built secure file encryption and decryption pipelines for firmware handling
+• Worked on modular backend architecture including controllers, middleware, and MongoDB models
 
 #### **Full Stack Developer — Ai Tech Craft LTD**
 - **MERN & Design & Scraping** | Remote | December 2023 – June 2024
