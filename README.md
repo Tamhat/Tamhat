@@ -69,17 +69,17 @@ My philosophy: write clean, testable code. Automate everything. Architect for 10
 
 #### **Software Engineer (Backend, Process Automation)** Uttara, Dhaka
 **Shothik AI** | Jul,2025 - 2026
-• Built process automation pipelines using Selenium and Playwright for browser task automation
-• Developed marketing automation workflows using n8n
-• Designed backend microservices using Node.js
-• Used Docker, Google Cloud Platform (GCP), and Redis for deployment and caching
+- • Built process automation pipelines using Selenium and Playwright for browser task automation
+- • Developed marketing automation workflows using n8n
+- • Designed backend microservices using Node.js
+- • Used Docker, Google Cloud Platform (GCP), and Redis for deployment and caching
 
 #### **Software Engineer** United Kingdom (Remote)
 **WebBang LTD (Full Stack Development)** Jul 2024 – 2025
-• Developed backend features for automotive ECU tuning platform enabling secure car performance customization
-• Implemented SMS gateway integration, significantly reducing communication costs
-• Built secure file encryption and decryption pipelines for firmware handling
-• Worked on modular backend architecture including controllers, middleware, and MongoDB models
+- • Developed backend features for automotive ECU tuning platform enabling secure car performance customization
+- • Implemented SMS gateway integration, significantly reducing communication costs
+- • Built secure file encryption and decryption pipelines for firmware handling
+- • Worked on modular backend architecture including controllers, middleware, and MongoDB models
 
 #### **Full Stack Developer — Ai Tech Craft LTD**
 - **MERN & Design & Scraping** | Remote | December 2023 – June 2024
@@ -125,29 +125,29 @@ My philosophy: write clean, testable code. Automate everything. Architect for 10
 - **Features:** Real-time chat, user authentication, responsive UI, production-optimized build.
 
 **Cloud Native E-Commerce Platform | Spring Boot, React, MySQL, Docker, Kubernetes, AWS**
-• Developed RESTful APIs using Spring Boot and MySQL for product, order, and user management
-• Implemented JWT and OAuth2 authentication for secure API access
-• Containerized services with Docker and deployed applications on Kubernetes clusters
-• Built responsive frontend interfaces using React, Next.js, Tailwind CSS, HTML, and JavaScript
-• Automated deployments using Jenkins CI/CD pipelines and AWS infrastructure
+- • Developed RESTful APIs using Spring Boot and MySQL for product, order, and user management
+- • Implemented JWT and OAuth2 authentication for secure API access
+- • Containerized services with Docker and deployed applications on Kubernetes clusters
+- • Built responsive frontend interfaces using React, Next.js, Tailwind CSS, HTML, and JavaScript
+- • Automated deployments using Jenkins CI/CD pipelines and AWS infrastructure
 
 **Event-Driven Microservices System | Kafka, RabbitMQ, Redis, Spring Boot, Docker**
-• Implemented asynchronous communication using Kafka and RabbitMQ to decouple services
-• Used Redis caching to reduce database load and improve response latency
-• Integrated API Gateway and Config Server for centralized routing and configuration management
-• Added WebSocket-based real-time notifications for live updates
+- • Implemented asynchronous communication using Kafka and RabbitMQ to decouple services
+- • Used Redis caching to reduce database load and improve response latency
+- • Integrated API Gateway and Config Server for centralized routing and configuration management
+- • Added WebSocket-based real-time notifications for live updates
 
 **Monitoring and Observability Stack | Prometheus, Grafana, ELK Stack, New Relic**
-• Set up centralized logging using Elasticsearch, Logstash, and Kibana
-• Configured Prometheus and Grafana dashboards for application and infrastructure monitoring
-• Integrated New Relic for APM-style tracing and performance monitoring
-• Performed load and stress testing using JMeter
+- • Set up centralized logging using Elasticsearch, Logstash, and Kibana
+- • Configured Prometheus and Grafana dashboards for application and infrastructure monitoring
+- • Integrated New Relic for APM-style tracing and performance monitoring
+- • Performed load and stress testing using JMeter
 
 **Infrastructure Automation Pipeline | Terraform, AWS, Jenkins, Nginx**
-• Provisioned AWS infrastructure using Terraform for repeatable deployments
-• Configured Jenkins pipelines for automated build, test, and deployment workflows
-• Used Nginx as reverse proxy and load balancer with HTTPS/TLS configuration
-• Maintained code quality with SonarQube and Git/GitHub workflows
+- • Provisioned AWS infrastructure using Terraform for repeatable deployments
+- • Configured Jenkins pipelines for automated build, test, and deployment workflows
+- • Used Nginx as reverse proxy and load balancer with HTTPS/TLS configuration
+- • Maintained code quality with SonarQube and Git/GitHub workflows
 
 #### **Full Stack Ecommerce Website**
 - **Technologies:** Node.js, Express, MongoDB, MERN Stack
