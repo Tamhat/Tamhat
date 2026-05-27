@@ -10,17 +10,31 @@
   >
 </div> -->
 
-## Rahmat Ullah | Full Stack Developer | Software Engineer | System Designer | System Architecturer | Systems Thinker | Builder
+## Rahmat Ullah — Software Engineer · Distributed Systems · Backend & Cloud Infrastructure
 
 <div align="left">
-  Phone: +8801924259064 || Email: devrahmatullah@gmail.com || Linkedin: https://linkedin.com/in/devrahmat </br>
+  Phone: +8801924259064 || Email: devrahmatullah@gmail.com || 
+  LinkedIn: https://linkedin.com/in/devrahmat || 
+  Portfolio: rahma-dev.vercel.app
 </div>
-
 ---
 
-### 💼 About Me 
+### 💼 About Me
 
-I am a **Full Stack Developer** with over **5+ years of experience** in delivering high-performance web applications. Skilled in Nodejs, JavaScript, Python, and frameworks/libraries like React.js, Vue.js, Next.js, Express.js, and Node.js. With a strong foundation in both frontend and backend development, I build scalable, high-performance applications that meet complex business needs. Adept in RESTful APIs, database management, and implementing clean, maintainable code aligned with industry best practices.
+I build the systems that don't go down.
+
+I'm a Software Engineer specializing in distributed backends, cloud infrastructure, and workflow automation. I've built event-driven platforms across automotive SaaS, AI ecosystems, and enterprise automation — working with teams at **Shothik AI**, **WebBang UK**, and **Ai Tech Craft**.
+
+My philosophy: write clean, testable code. Automate everything. Architect for 10x the load you have today.
+---
+
+**What I focus on:**
+- **Backend & Distributed Systems** — Spring Boot, Node.js, Kafka, RabbitMQ, gRPC
+- **Cloud & DevOps** — AWS, GCP, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions
+- **Data & Search** — PostgreSQL, MongoDB, Elasticsearch, Redis, Pinecone, RAG
+- **Observability** — Prometheus, Grafana, OpenTelemetry, Jaeger, ELK Stack
+- **Security & Auth** — OAuth2, JWT
+- **Testing & Quality** — JUnit 5, Testcontainers, SonarQube
 
 ---
 
@@ -111,6 +125,31 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 - **Role & Contributions:** Sole developer. Implemented frontend UI using React and TypeScript, and integrated Chat Engine API for authentication and messaging functionality.
 - **Features:** Real-time chat, user authentication, responsive UI, production-optimized build.
 
+**Cloud Native E-Commerce Platform | Spring Boot, React, MySQL, Docker, Kubernetes, AWS**
+• Developed RESTful APIs using Spring Boot and MySQL for product, order, and user management
+• Implemented JWT and OAuth2 authentication for secure API access
+• Containerized services with Docker and deployed applications on Kubernetes clusters
+• Built responsive frontend interfaces using React, Next.js, Tailwind CSS, HTML, and JavaScript
+• Automated deployments using Jenkins CI/CD pipelines and AWS infrastructure
+
+**Event-Driven Microservices System | Kafka, RabbitMQ, Redis, Spring Boot, Docker**
+• Implemented asynchronous communication using Kafka and RabbitMQ to decouple services
+• Used Redis caching to reduce database load and improve response latency
+• Integrated API Gateway and Config Server for centralized routing and configuration management
+• Added WebSocket-based real-time notifications for live updates
+
+**Monitoring and Observability Stack | Prometheus, Grafana, ELK Stack, New Relic**
+• Set up centralized logging using Elasticsearch, Logstash, and Kibana
+• Configured Prometheus and Grafana dashboards for application and infrastructure monitoring
+• Integrated New Relic for APM-style tracing and performance monitoring
+• Performed load and stress testing using JMeter
+
+**Infrastructure Automation Pipeline | Terraform, AWS, Jenkins, Nginx**
+• Provisioned AWS infrastructure using Terraform for repeatable deployments
+• Configured Jenkins pipelines for automated build, test, and deployment workflows
+• Used Nginx as reverse proxy and load balancer with HTTPS/TLS configuration
+• Maintained code quality with SonarQube and Git/GitHub workflows
+
 #### **Full Stack Ecommerce Website**
 - **Technologies:** Node.js, Express, MongoDB, MERN Stack
 - **Description:** A backend service for a full-stack ecommerce application built using the MERN stack. Supports core functionalities like product management, user authentication, and order handling.
@@ -142,7 +181,8 @@ I am a **Full Stack Developer** with over **5+ years of experience** in deliveri
 - **Email:** devrahmatullah@gmail.com
 - **Portfolio:** [rahma-dev.vercel.app](https://rahma-dev.vercel.app/) 
 - **GitHub:** [Tamhat](https://github.com/Tamhat) 
-- **LinkedIn:** [devrahmat](https://linkedin.com/in/devrahmat) 
+- **LinkedIn:** [devrahmat](https://linkedin.com/in/devrahmat)
+- **Medium:** [devrahmatullah](https://medium.com/@devrahmatullah)
 
 ---
 
