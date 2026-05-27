@@ -190,7 +190,7 @@ If you're interested in collaborating or have a project in mind, feel free to re
     src="https://img001.prntscr.com/file/img001/w3AJ6HoQSW2iuo1B2IdMaA.png"  
     alt="Book a Call"
     style="border-radius: 12px; border: 2px solid #0072ff; width: auto; max-width: 100%; height: auto;"
-  > --><h2>📅Book a 20-Min Call</h2>
+  > -->
 </a>
 <!-- Cal inline embed code ends -->
   
