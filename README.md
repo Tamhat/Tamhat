@@ -13,10 +13,9 @@
 ## Rahmat Ullah — Software Engineer · Distributed Systems · Backend & Cloud Infrastructure
 
 <div align="left">
-  Phone: +8801924259064 || Email: devrahmatullah@gmail.com || 
-  LinkedIn: https://linkedin.com/in/devrahmat || 
-  Portfolio: rahma-dev.vercel.app
+  Phone: +8801924259064 || Email: devrahmatullah@gmail.com || Linkedin: https://linkedin.com/in/devrahmat </br>
 </div>
+
 ---
 
 ### 💼 About Me
