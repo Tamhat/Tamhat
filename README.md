@@ -162,16 +162,6 @@ My philosophy: write clean, testable code. Automate everything. Architect for 10
 - **Diploma in Engineering – Computer Science & Technology**
   - Munshiganj Polytechnic Institute, Bangladesh | 2023 – Present
 - **Secondary School Certificate (SSC)** | 2022
-
----
-
-### 🏆 Achievements & Traits
-
-- Self-taught MERN developer who learned by building and shipping.
-- Built 3 freelance products used in production by real-world clients.
-- Solves problems using first principles and rapid prototyping.
-- Fast learner, can ship features within tight deadlines.
-
 ---
 
 ### 📞 Contact
